@@ -13,6 +13,12 @@ Hugo provides a `new` command to create a new website.
 hugo new site <new_project>
 ```
 
+This is my first sc code in this site: 
+
+```
+() +> \test;
+```
+
 ## Install the theme
 
 Install the Relearn theme by following [this documentation](https://gohugo.io/getting-started/quick-start/#step-3-add-a-theme)
