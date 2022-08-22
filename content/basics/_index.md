@@ -4,4 +4,4 @@ title = "Basics"
 weight = 1
 +++
 
-Lorem Ipsum.
+Not Lorem and not Ipsum.
